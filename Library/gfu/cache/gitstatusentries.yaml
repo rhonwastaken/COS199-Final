@@ -1,0 +1,3168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-05-07T13:55:20.394-04:00
+  initializedAtString: 2021-05-07T13:55:20.394-04:00
+  entries:
+  - path: Assets\_Creepy_Cat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat.meta
+    projectPath: Assets\_Creepy_Cat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Docs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Docs.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Docs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Docs\Doc.txt
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Docs\Doc.txt
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Docs\Doc.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Docs\Doc.txt.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Docs\Doc.txt.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Docs\Doc.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Column_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Column_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Column_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Column_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Column_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Column_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Angle_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Floor_Angle_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Angle_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Angle_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Floor_Angle_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Angle_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Half_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Floor_Half_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Half_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Half_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Floor_Half_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Half_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Normal_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Floor_Normal_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Normal_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Normal_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Floor_Normal_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Normal_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Normal_02.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Floor_Normal_02.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Normal_02.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Normal_02.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Floor_Normal_02.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Normal_02.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Square_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Floor_Square_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Square_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Square_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Floor_Square_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Floor_Square_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Materials.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Materials.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Materials\Wall_Atlas_01_Dif.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Materials\Wall_Atlas_01_Dif.mat
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Materials\Wall_Atlas_01_Dif.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Materials\Wall_Atlas_01_Dif.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Materials\Wall_Atlas_01_Dif.mat.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Materials\Wall_Atlas_01_Dif.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Angle_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Roof_Angle_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Angle_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Angle_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Roof_Angle_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Angle_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Half_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Roof_Half_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Half_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Half_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Roof_Half_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Half_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Light_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Roof_Light_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Light_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Light_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Roof_Light_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Light_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Normal_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Roof_Normal_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Normal_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Normal_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Roof_Normal_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Normal_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Square_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Roof_Square_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Square_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Square_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Roof_Square_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Roof_Square_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Angle_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Angle_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Angle_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Angle_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Angle_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Angle_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Door_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Door_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Door_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Door_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Door_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Door_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Normal_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Normal_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Normal_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Normal_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Normal_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Normal_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Normal_02.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Normal_02.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Normal_02.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Normal_02.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Normal_02.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Normal_02.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Top_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Top_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Top_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Top_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Top_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Top_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Top_Angle_01.FBX
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Top_Angle_01.FBX
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Top_Angle_01.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Top_Angle_01.FBX.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Meshes\Wall_Top_Angle_01.FBX.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Meshes\Wall_Top_Angle_01.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Corridor_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos\Corridor_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Corridor_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Corridor_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos\Corridor_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Corridor_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Corridor_02.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos\Corridor_02.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Corridor_02.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Corridor_02.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos\Corridor_02.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Corridor_02.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos\Room_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos\Room_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_02.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos\Room_02.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_02.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_02.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos\Room_02.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_02.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_03.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos\Room_03.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_03.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_03.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\_Legos\Room_03.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\_Legos\Room_03.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Column_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Column_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Column_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Column_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Column_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Column_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Angle_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Floor_Angle_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Angle_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Angle_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Floor_Angle_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Angle_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Half_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Floor_Half_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Half_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Half_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Floor_Half_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Half_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Normal_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Floor_Normal_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Normal_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Normal_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Floor_Normal_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Normal_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Normal_02.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Floor_Normal_02.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Normal_02.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Normal_02.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Floor_Normal_02.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Normal_02.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Square_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Floor_Square_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Square_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Square_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Floor_Square_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Floor_Square_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Pub_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Pub_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Pub_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Pub_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Pub_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Pub_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Angle_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Roof_Angle_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Angle_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Angle_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Roof_Angle_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Angle_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Half_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Roof_Half_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Half_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Half_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Roof_Half_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Half_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Light_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Roof_Light_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Light_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Light_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Roof_Light_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Light_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Normal_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Roof_Normal_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Normal_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Normal_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Roof_Normal_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Normal_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Square_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Roof_Square_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Square_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Square_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Roof_Square_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Roof_Square_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Angle_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Angle_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Angle_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Angle_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Angle_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Angle_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Door_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Door_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Door_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Door_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Door_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Door_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Normal_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Normal_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Normal_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Normal_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Normal_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Normal_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Normal_02.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Normal_02.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Normal_02.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Normal_02.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Normal_02.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Normal_02.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Top_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Top_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Top_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Top_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Top_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Top_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Top_Angle_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Top_Angle_01.prefab
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Top_Angle_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Top_Angle_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Prefabs\Wall_Top_Angle_01.prefab.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Prefabs\Wall_Top_Angle_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Pub.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Pub.mat
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Pub.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Pub.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Pub.mat.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Pub.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Pub.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Pub.png
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Pub.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Pub.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Pub.png.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Pub.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Ao.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Wall_Atlas_01_Ao.png
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Ao.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Ao.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Wall_Atlas_01_Ao.png.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Ao.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Dif.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Wall_Atlas_01_Dif.png
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Dif.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Dif.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Wall_Atlas_01_Dif.png.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Dif.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Illum.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Wall_Atlas_01_Illum.png
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Illum.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Illum.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Wall_Atlas_01_Illum.png.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Illum.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Metal.tif
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Wall_Atlas_01_Metal.tif
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Metal.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Metal.tif.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Wall_Atlas_01_Metal.tif.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Metal.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Norm.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Wall_Atlas_01_Norm.png
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Norm.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Norm.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\_Textures\Wall_Atlas_01_Norm.png.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\_Textures\Wall_Atlas_01_Norm.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Example_01.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\LightingData.asset
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Example_01\LightingData.asset
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\LightingData.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\LightingData.asset.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Example_01\LightingData.asset.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\LightingData.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\ReflectionProbe-0.exr
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Example_01\ReflectionProbe-0.exr
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\ReflectionProbe-0.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\ReflectionProbe-0.exr.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Example_01\ReflectionProbe-0.exr.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\ReflectionProbe-0.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\ReflectionProbe-1.exr
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Example_01\ReflectionProbe-1.exr
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\ReflectionProbe-1.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\ReflectionProbe-1.exr.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Example_01\ReflectionProbe-1.exr.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Example_01\ReflectionProbe-1.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Point Light Anim.anim
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Point Light Anim.anim
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Point Light Anim.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Point Light Anim.anim.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Point Light Anim.anim.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Point Light Anim.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Point light.controller
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Point light.controller
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Point light.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Point light.controller.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Point light.controller.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Point light.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Post-Processing Profile.asset
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Post-Processing Profile.asset
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Post-Processing Profile.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Post-Processing Profile.asset.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\_Creepy_Cat\_3D Scifi Kit Starter
+      Kit\Post-Processing Profile.asset.meta
+    projectPath: Assets\_Creepy_Cat\_3D Scifi Kit Starter Kit\Post-Processing Profile.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets.meta
+    projectPath: Assets\ArvisMag_Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\Obj.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\Obj.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\Obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_01.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_01.prefab
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_01.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_01.prefab.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_Scene.unity
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_Scene.unity
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_Scene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_Scene.unity.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_Scene.unity.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceShuttle_Scene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_back6.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_back6.png
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_back6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_back6.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_back6.png.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_back6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_bottom4.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_bottom4.png
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_bottom4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_bottom4.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_bottom4.png.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_bottom4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_front5.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_front5.png
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_front5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_front5.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_front5.png.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_front5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_left2.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_left2.png
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_left2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_left2.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_left2.png.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_left2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_right1.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_right1.png
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_right1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_right1.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_right1.png.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_right1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_top3.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_top3.png
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_top3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_top3.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_top3.png.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxyBgSkyBox_4096px_top3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxySkyBox.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxySkyBox.mat
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxySkyBox.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxySkyBox.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxySkyBox.mat.meta
+    projectPath: Assets\ArvisMag_Assets\SpaceShuttle\SpaceSkyBox\GalaxySkyBox.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BAD.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\BAD.png
+    projectPath: Assets\BAD.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BAD.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\BAD.png.meta
+    projectPath: Assets\BAD.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack.meta
+    projectPath: Assets\FirstPersion AIO Pack.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Animations.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Animations.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Animations.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Animations\Door_open.anim
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Animations\Door_open.anim
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Animations\Door_open.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Animations\Door_open.anim.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Animations\Door_open.anim.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Animations\Door_open.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Animations\Doors.controller
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Animations\Doors.controller
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Animations\Doors.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Animations\Doors.controller.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Animations\Doors.controller.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Animations\Doors.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\MiscScripts.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\MiscScripts.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\MiscScripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\MiscScripts\Doors.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\MiscScripts\Doors.cs
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\MiscScripts\Doors.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\MiscScripts\Doors.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\MiscScripts\Doors.cs.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\MiscScripts\Doors.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Models.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Models.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Models.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Models\Computer.fbx
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Models\Computer.fbx
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Models\Computer.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Models\Computer.fbx.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Models\Computer.fbx.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Models\Computer.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Models\OfficeRoom.fbx
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Models\OfficeRoom.fbx
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Models\OfficeRoom.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Models\OfficeRoom.fbx.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Models\OfficeRoom.fbx.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Models\OfficeRoom.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Models\Props.fbx
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Models\Props.fbx
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Models\Props.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Models\Props.fbx.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Models\Props.fbx.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Models\Props.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\CeilingLight.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\CeilingLight.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\CeilingLight.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\CeilingLight.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\CeilingLight.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\CeilingLight.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Chair.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Chair.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Chair.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Chair.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Chair.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Chair.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Computer.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Computer.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Computer.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Computer.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Computer.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Computer.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Desk.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Desk.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Desk.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Desk.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Desk.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Desk.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Doors.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Doors.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Doors.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Doors.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Doors.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Doors.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\FireExtinguisher.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\FireExtinguisher.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\FireExtinguisher.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\FireExtinguisher.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\FireExtinguisher.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\FireExtinguisher.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Meeting Table.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Meeting
+      Table.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Meeting Table.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Meeting Table.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Meeting
+      Table.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Meeting Table.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\MiniVan.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\MiniVan.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\MiniVan.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\MiniVan.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\MiniVan.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\MiniVan.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\OfficeRoom.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\OfficeRoom.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\OfficeRoom.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\OfficeRoom.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\OfficeRoom.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\OfficeRoom.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\ParkBench.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\ParkBench.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\ParkBench.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\ParkBench.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\ParkBench.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\ParkBench.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\PottedPlant.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\PottedPlant.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\PottedPlant.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\PottedPlant.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\PottedPlant.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\PottedPlant.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock1.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock1.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock1.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock1.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock2.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock2.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock2.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock2.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Rock2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\RoundTable.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\RoundTable.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\RoundTable.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\RoundTable.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\RoundTable.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\RoundTable.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\SoadMachine.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\SoadMachine.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\SoadMachine.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\SoadMachine.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\SoadMachine.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\SoadMachine.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\StreetLight.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\StreetLight.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\StreetLight.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\StreetLight.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\StreetLight.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\StreetLight.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_1.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_1.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_1.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_1.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_2.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_2.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_2.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_2.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_3.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_3.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_3.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_3.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_3.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\Tree_3.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\VendingMachine.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\VendingMachine.prefab
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\VendingMachine.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\VendingMachine.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Prefabs\VendingMachine.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Prefabs\VendingMachine.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Scene.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Scene.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Scene.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Scene\Demo.unity
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Scene\Demo.unity
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Scene\Demo.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Scene\Demo.unity.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Scene\Demo.unity.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Scene\Demo.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-01.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-01.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-01.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-01.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-01.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-01.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-02.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-02.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-02.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-02.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-02.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-02.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-03.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-03.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-03.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-03.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-03.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-03.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-04.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-04.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-04.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-04.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-04.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-04.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-05.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-05.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-05.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-05.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-05.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-05.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-06.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-06.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-06.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-06.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-06.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-06.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-07.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-07.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-07.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-07.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-07.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-07.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-08.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-08.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-08.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-08.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-08.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-08.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-09.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-09.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-09.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-09.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-09.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-09.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-10.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-10.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-10.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-10.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-10.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-10.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-11.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-11.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-11.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-11.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-11.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Carpet\Carpet-11.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-01.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-01.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-01.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-01.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-01.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-01.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-02.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-02.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-02.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-02.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-02.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-02.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-03.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-03.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-03.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-03.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-03.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-03.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-04.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-04.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-04.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-04.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-04.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-04.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-05.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-05.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-05.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-05.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-05.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-05.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-06.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-06.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-06.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-06.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-06.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-06.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-07.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-07.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-07.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-07.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-07.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-07.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-08.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-08.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-08.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-08.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-08.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-08.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-09.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-09.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-09.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-09.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-09.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-09.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-10.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-10.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-10.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-10.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-10.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-10.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-11.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-11.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-11.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-11.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-11.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Concrete\Concrete-11.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_01.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_01.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_01.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_01.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_01.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_01.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_02.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_02.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_02.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_02.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_02.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_02.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_03.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_03.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_03.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_03.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_03.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_03.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_04.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_04.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_04.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_04.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_04.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_04.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_05.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_05.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_05.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_05.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_05.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_05.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_06.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_06.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_06.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_06.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_06.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_06.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_07.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_07.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_07.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_07.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_07.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_07.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_08.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_08.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_08.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_08.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_08.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_08.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_09.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_09.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_09.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_09.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_09.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_09.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_10.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_10.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_10.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_10.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_10.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_10.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_11.wav
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_11.wav
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_11.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_11.wav.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_11.wav.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Sounds\sfx\Footsteps\Grass\Grass_11.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Asphalt.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Asphalt.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Asphalt.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Asphalt.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Asphalt.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Asphalt.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Bumped Glass.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Bumped Glass.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Bumped Glass.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Bumped Glass.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Bumped Glass.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Bumped Glass.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Carpet.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Carpet.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Carpet.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Carpet.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Carpet.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Carpet.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\DaySky.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\DaySky.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\DaySky.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\DaySky.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\DaySky.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\DaySky.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Drywall.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Drywall.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Drywall.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Drywall.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Drywall.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Drywall.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\GlassBumpedDistort.shader
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\GlassBumpedDistort.shader
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\GlassBumpedDistort.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\GlassBumpedDistort.shader.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\GlassBumpedDistort.shader.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\GlassBumpedDistort.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\MicroProps.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\MicroProps.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\MicroProps.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\MicroProps.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\MicroProps.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\MicroProps.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\NightSky.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\NightSky.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\NightSky.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\NightSky.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\NightSky.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\NightSky.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Carpet.physicMaterial
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\Carpet.physicMaterial
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Carpet.physicMaterial
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Carpet.physicMaterial.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\Carpet.physicMaterial.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Carpet.physicMaterial.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Concrete.physicMaterial
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\Concrete.physicMaterial
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Concrete.physicMaterial
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Concrete.physicMaterial.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\Concrete.physicMaterial.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Concrete.physicMaterial.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Grass.physicMaterial
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\Grass.physicMaterial
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Grass.physicMaterial
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Grass.physicMaterial.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\Grass.physicMaterial.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Grass.physicMaterial.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Gravel.physicMaterial
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\Gravel.physicMaterial
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Gravel.physicMaterial
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Gravel.physicMaterial.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\Gravel.physicMaterial.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Gravel.physicMaterial.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\MaxFriction.physicMaterial
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\MaxFriction.physicMaterial
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\MaxFriction.physicMaterial
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\MaxFriction.physicMaterial.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\MaxFriction.physicMaterial.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\MaxFriction.physicMaterial.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Wood.physicMaterial
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\Wood.physicMaterial
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Wood.physicMaterial
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Wood.physicMaterial.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\Wood.physicMaterial.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\Wood.physicMaterial.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\ZeroFriction.physicMaterial
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\ZeroFriction.physicMaterial
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\ZeroFriction.physicMaterial
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\ZeroFriction.physicMaterial.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\PhysicsMats\ZeroFriction.physicMaterial.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\PhysicsMats\ZeroFriction.physicMaterial.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Shadeless Black.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Shadeless Black.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Shadeless
+      Black.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Shadeless Black.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Shadeless Black.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Shadeless
+      Black.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\SideWalk.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\SideWalk.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\SideWalk.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\SideWalk.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\SideWalk.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\SideWalk.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Tile.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Tile.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Tile.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Tile.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\Tile.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\Tile.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\WindowLining.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\WindowLining.mat
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\WindowLining.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\WindowLining.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Materials\WindowLining.mat.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Materials\WindowLining.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Carpet.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Carpet.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Carpet.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Carpet\Carpet.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Carpet\Carpet.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Carpet\Carpet.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Carpet\Carpet.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Carpet\Carpet.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Carpet\Carpet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Carpet\Carpet_Normal.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Carpet\Carpet_Normal.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Carpet\Carpet_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Carpet\Carpet_Normal.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Carpet\Carpet_Normal.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Carpet\Carpet_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Concrete.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Concrete.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Concrete.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Concrete\Concrete.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Concrete\Concrete.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Concrete\Concrete.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Concrete\Concrete.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Concrete\Concrete.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Concrete\Concrete.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Concrete\Concrete_Normal.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Concrete\Concrete_Normal.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Concrete\Concrete_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Concrete\Concrete_Normal.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Concrete\Concrete_Normal.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Concrete\Concrete_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Back.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Back.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Back.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Back.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Back.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Back.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Bottom.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Bottom.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Bottom.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Bottom.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Bottom.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Bottom.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Front.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Front.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Front.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Front.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Front.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Front.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Left.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Left.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Left.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Left.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Left.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Left.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Right.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Right.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Right.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Right.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Right.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Right.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Top.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Top.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Top.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Top.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\DaySky\Top.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\DaySky\Top.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Glass.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Glass.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Glass.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Glass\GlassFrosted.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Glass\GlassFrosted.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Glass\GlassFrosted.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Glass\GlassFrosted.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Glass\GlassFrosted.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Glass\GlassFrosted.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Glass\glassNormal.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Glass\glassNormal.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Glass\glassNormal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Glass\glassNormal.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Glass\glassNormal.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Glass\glassNormal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Back.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Back.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Back.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Back.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Back.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Back.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Bottom.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Bottom.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Bottom.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Bottom.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Bottom.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Bottom.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Front.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Front.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Front.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Front.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Front.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Front.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Left.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Left.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Left.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Left.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Left.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Left.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Right.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Right.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Right.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Right.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Right.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Right.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Top.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Top.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Top.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Top.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\NightSky\Top.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\NightSky\Top.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Props.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Props\MicroPropTex.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Props\MicroPropTex.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_Emission.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Props\MicroPropTex_Emission.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_Emission.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_Emission.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Props\MicroPropTex_Emission.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_Emission.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_matallic.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Props\MicroPropTex_matallic.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_matallic.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_matallic.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Props\MicroPropTex_matallic.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_matallic.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_Roughness.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Props\MicroPropTex_Roughness.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_Roughness.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_Roughness.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Props\MicroPropTex_Roughness.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Props\MicroPropTex_Roughness.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Reticle.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Reticle.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Reticle.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Reticle.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Reticle.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Reticle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Tile.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Tile\Tile.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Tile\Tile.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile_Normal.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Tile\Tile_Normal.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile_Normal.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Tile\Tile_Normal.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile_Roughness.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Tile\Tile_Roughness.png
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile_Roughness.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile_Roughness.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\DemoScene\Working
+      Textures\Tile\Tile_Roughness.png.meta
+    projectPath: Assets\FirstPersion AIO Pack\DemoScene\Working Textures\Tile\Tile_Roughness.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\Documentation.rtf
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\Documentation.rtf
+    projectPath: Assets\FirstPersion AIO Pack\Documentation.rtf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\Documentation.rtf.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\Documentation.rtf.meta
+    projectPath: Assets\FirstPersion AIO Pack\Documentation.rtf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\FirstPersonAIO.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\FirstPersonAIO.meta
+    projectPath: Assets\FirstPersion AIO Pack\FirstPersonAIO.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPersonAIO.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPersonAIO.cs
+    projectPath: Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPersonAIO.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPersonAIO.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPersonAIO.cs.meta
+    projectPath: Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPersonAIO.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPerson-AIO.prefab
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPerson-AIO.prefab
+    projectPath: Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPerson-AIO.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPerson-AIO.prefab.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPerson-AIO.prefab.meta
+    projectPath: Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPerson-AIO.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\README.txt
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\README.txt
+    projectPath: Assets\FirstPersion AIO Pack\README.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstPersion AIO Pack\README.txt.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\FirstPersion AIO Pack\README.txt.meta
+    projectPath: Assets\FirstPersion AIO Pack\README.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\GREEN.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\GREEN.mat
+    projectPath: Assets\GREEN.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\GREEN.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\GREEN.mat.meta
+    projectPath: Assets\GREEN.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Materials.meta
+    projectPath: Assets\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Untitled.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Materials\Untitled.mat
+    projectPath: Assets\Materials\Untitled.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Untitled.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Materials\Untitled.mat.meta
+    projectPath: Assets\Materials\Untitled.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\RED.mat
+    fullPath: C:\Users\thetr\COS199 Final\Assets\RED.mat
+    projectPath: Assets\RED.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\RED.mat.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\RED.mat.meta
+    projectPath: Assets\RED.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scenes.meta
+    projectPath: Assets\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Game Over.unity
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scenes\Game Over.unity
+    projectPath: Assets\Scenes\Game Over.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Game Over.unity.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scenes\Game Over.unity.meta
+    projectPath: Assets\Scenes\Game Over.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Game.unity
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scenes\Game.unity
+    projectPath: Assets\Scenes\Game.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Game.unity.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scenes\Game.unity.meta
+    projectPath: Assets\Scenes\Game.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Main Menu.unity
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scenes\Main Menu.unity
+    projectPath: Assets\Scenes\Main Menu.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Main Menu.unity.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scenes\Main Menu.unity.meta
+    projectPath: Assets\Scenes\Main Menu.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Victory.unity
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scenes\Victory.unity
+    projectPath: Assets\Scenes\Victory.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Victory.unity.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scenes\Victory.unity.meta
+    projectPath: Assets\Scenes\Victory.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CubeDestroyer.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\CubeDestroyer.cs
+    projectPath: Assets\Scripts\CubeDestroyer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CubeDestroyer.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\CubeDestroyer.cs.meta
+    projectPath: Assets\Scripts\CubeDestroyer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GameOverMenu.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\GameOverMenu.cs
+    projectPath: Assets\Scripts\GameOverMenu.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GameOverMenu.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\GameOverMenu.cs.meta
+    projectPath: Assets\Scripts\GameOverMenu.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Pick.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\Pick.cs
+    projectPath: Assets\Scripts\Pick.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Pick.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\Pick.cs.meta
+    projectPath: Assets\Scripts\Pick.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PickUp.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\PickUp.cs
+    projectPath: Assets\Scripts\PickUp.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PickUp.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\PickUp.cs.meta
+    projectPath: Assets\Scripts\PickUp.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Pickupable.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\Pickupable.cs
+    projectPath: Assets\Scripts\Pickupable.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Pickupable.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\Pickupable.cs.meta
+    projectPath: Assets\Scripts\Pickupable.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SC_BackgroundScaler.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\SC_BackgroundScaler.cs
+    projectPath: Assets\Scripts\SC_BackgroundScaler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SC_BackgroundScaler.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\SC_BackgroundScaler.cs.meta
+    projectPath: Assets\Scripts\SC_BackgroundScaler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SC_MainMenu.cs
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\SC_MainMenu.cs
+    projectPath: Assets\Scripts\SC_MainMenu.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SC_MainMenu.cs.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Scripts\SC_MainMenu.cs.meta
+    projectPath: Assets\Scripts\SC_MainMenu.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Untitled.png
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Untitled.png
+    projectPath: Assets\Untitled.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Untitled.png.meta
+    fullPath: C:\Users\thetr\COS199 Final\Assets\Untitled.png.meta
+    projectPath: Assets\Untitled.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages\manifest.json
+    fullPath: C:\Users\thetr\COS199 Final\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: C:\Users\thetr\COS199 Final\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
